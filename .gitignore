@@ -1,0 +1,4 @@
+.idea/
+*.tar.gz
+docker-compose.yml
+*.DS_Store
